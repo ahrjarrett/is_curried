@@ -1,0 +1,5 @@
+Code that accompanies my article.
+
+Original blog post:
+
+https://www.linkedin.com/pulse/write-javascript-function-tests-curried-andrew-hr-jarrett/
